@@ -1,0 +1,20 @@
+.poeple{
+    padding-left:150px;
+    display: flex;
+    
+}
+.recent{
+    width: 30%;
+}
+.all-poeple{
+    text-align: center;
+    width: 40%;
+}
+h1{
+    padding: 30px;
+}
+.friends{
+    margin-top: 100px;
+    text-align: center;
+    padding: 50px;
+}

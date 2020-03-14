@@ -1,0 +1,10 @@
+
+nav a:hover{
+    background-color:rgb(48, 46, 46);
+    text-decoration: none;
+    color: azure;
+   
+}
+nav a{
+    padding: 10px;
+}

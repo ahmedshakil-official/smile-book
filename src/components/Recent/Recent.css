@@ -1,0 +1,11 @@
+.all-data{
+    margin: 20px 100px;
+    padding: 30px;
+    font-weight:500;
+    box-shadow: rgb(6, 164, 255) 1px 2px 10px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
