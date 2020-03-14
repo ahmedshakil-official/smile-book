@@ -2,7 +2,7 @@ const fakeData=[
 {
 "id": 1,
 "name": "Leanne Graham",
-"salary": "$9999",
+"salary": "9999",
 "img": "https://cdn.pixabay.com/user/2019/07/18/11-50-11-817_250x250.jpg",
 "username": "Bret",
 "email": "Sincere@april.biz",
@@ -28,7 +28,7 @@ const fakeData=[
 "id": 2,
 "name": "Ervin Howell",
 "username": "Antonette",
-"salary": "$3344",
+"salary": "3344",
 "img": "https://cdn.pixabay.com/user/2017/12/16/10-28-39-199_250x250.jpg",
 "email": "Shanna@melissa.tv",
 "address": {
@@ -53,7 +53,7 @@ const fakeData=[
 "id": 3,
 "name": "Clementine Bauch",
 "username": "Samantha",
-"salary": "$9239",
+"salary": "9239",
 "img": "https://cdn.pixabay.com/user/2020/01/13/10-51-47-251_250x250.jpg",
 "email": "Nathan@yesenia.net",
 "address": {
@@ -77,7 +77,7 @@ const fakeData=[
 {
 "id": 4,
 "name": "Patricia Lebsack",
-"salary": "$8787",
+"salary": "8787",
 "img": "https://cdn.pixabay.com/user/2018/06/27/01-23-02-27_250x250.jpg",
 "username": "Karianne",
 "email": "Julianne.OConner@kory.org",
@@ -102,7 +102,7 @@ const fakeData=[
 {
 "id": 5,
 "name": "Chelsey Dietrich",
-"salary": "$1212",
+"salary": "1212",
 "img": "https://cdn.pixabay.com/user/2015/04/07/14-10-15-590_250x250.jpg",
 "username": "Kamren",
 "email": "Lucio_Hettinger@annie.ca",
@@ -128,7 +128,7 @@ const fakeData=[
 "id": 6,
 "name": "Mrs. Dennis Schulist",
 "username": "Leopoldo_Corkery",
-"salary": "$9546",
+"salary": "9546",
 "img": "https://cdn.pixabay.com/user/2012/09/08/21-14-56-990_250x250.jpg",
 "email": "Karley_Dach@jasper.info",
 "address": {
@@ -154,7 +154,7 @@ const fakeData=[
 "name": "Kurtis Weissnat",
 "username": "Elwyn.Skiles",
 "email": "Telly.Hoeger@billy.biz",
-"salary": "$8866",
+"salary": "8866",
 "img": "https://cdn.pixabay.com/user/2015/12/16/17-56-55-832_250x250.jpg",
 "address": {
 "street": "Rex Trail",
@@ -178,7 +178,7 @@ const fakeData=[
 "id": 8,
 "name": "Nicholas Runolfsdottir V",
 "username": "Maxime_Nienow",
-"salary": "$5678",
+"salary": "5678",
 "img": "https://cdn.pixabay.com/user/2019/07/15/18-51-07-612_250x250.jpg",
 "email": "Sherwood@rosamond.me",
 "address": {
@@ -203,7 +203,7 @@ const fakeData=[
 "id": 9,
 "name": "Glenna Reichert",
 "username": "Delphine",
-"salary": "$2398",
+"salary": "2398",
 "img": "https://cdn.pixabay.com/user/2017/12/06/20-08-45-84_250x250.jpg",
 "email": "Chaim_McDermott@dana.io",
 "address": {
@@ -227,7 +227,7 @@ const fakeData=[
 {
 "id": 10,
 "name": "Patricia Lebsack",
-"salary": "$2369",
+"salary": "2369",
 "img": "https://cdn.pixabay.com/user/2019/07/18/11-50-11-817_250x250.jpg",
 "username": "Karianne",
 "email": "Julianne.OConner@kory.org",
@@ -252,7 +252,7 @@ const fakeData=[
 {
 "id": 11,
 "name": "Chelsey Dietrich",
-"salary": "$1199",
+"salary": "1199",
 "img": "https://cdn.pixabay.com/user/2017/11/17/08-35-57-188_250x250.jpg",
 "username": "Kamren",
 "email": "Lucio_Hettinger@annie.ca",
@@ -278,7 +278,7 @@ const fakeData=[
 "id": 12,
 "name": "Mrs. Dennis Schulist",
 "username": "Leopoldo_Corkery",
-"salary": "$9789",
+"salary": "9789",
 "img": "https://cdn.pixabay.com/user/2020/03/10/16-40-57-391_250x250.jpg",
 "email": "Karley_Dach@jasper.info",
 "address": {
@@ -304,7 +304,7 @@ const fakeData=[
 "name": "Kurtis Weissnat",
 "username": "Elwyn.Skiles",
 "email": "Telly.Hoeger@billy.biz",
-"salary": "$2499",
+"salary": "2499",
 "img": "https://cdn.pixabay.com/user/2019/02/27/14-16-13-192_250x250.jpg",
 "address": {
 "street": "Rex Trail",
@@ -328,7 +328,7 @@ const fakeData=[
 "id": 14,
 "name": "Nicholas Runolfsdottir V",
 "username": "Maxime_Nienow",
-"salary": "$9900",
+"salary": "9900",
 "img": "https://cdn.pixabay.com/user/2016/01/05/14-08-20-943_250x250.jpg",
 "email": "Sherwood@rosamond.me",
 "address": {
@@ -353,7 +353,7 @@ const fakeData=[
 "id": 15,
 "name": "Glenna Reichert",
 "username": "Delphine",
-"salary": "$92349",
+"salary": "92349",
 "img": "https://cdn.pixabay.com/user/2019/05/16/18-48-21-135_250x250.jpg",
 "email": "Chaim_McDermott@dana.io",
 "address": {

@@ -4,6 +4,7 @@ import './smilebook.css'
 import fakeData from '../../fakeData/fakeData';
 import Poeple from '../Poeple/Poeple';
 import Recent from '../Recent/Recent';
+import Total from '../Total/Total';
 const Smilebook = () => {
    const [poeples, setPoeples] = useState([...fakeData]);
    const [count, setCount] = useState([])
@@ -43,6 +44,7 @@ const Smilebook = () => {
             <div className="friends">
                 <h3>Today's Report</h3>
                 <h4> Friend Request sent :<span className={badge()}>{formatCount()}</span></h4>
+                <Total count={count}></Total>
             </div>
         </div>
     );
